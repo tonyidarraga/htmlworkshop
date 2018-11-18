@@ -1,0 +1,24 @@
+> Exercise 1: <h1> is a block element. Add a display: inline declaration to your CSS rule for h1 -- what happens?
+
+-
+
+> Exercise 2: <strong> is an inline element. Consider the following HTML: <p>This is a paragraph with <strong>strong text</strong> 
+> inside it.</p>. What happens when you create a strong CSS rule with display: block?
+
+-
+
+> Exercise 3: Create two block-level elements, perhaps <div> elements, with id=left and id=right respectively.
+> Set position: absolute on both of them, then set width: 400px; on the left element, and set left: 400px; on the right.
+> How does it look? (Columns, right! Kind of? What happens when you change the width of your window?)
+
+-
+
+> Exercise 4: Create a <div id="container"> element with an <h1> element, an <img> element, and a <p> element inside it. 
+> Set display: flex on #container in your CSS. What do you see?
+
+-
+
+> Research Question 1: Visit this comprehensive guide to flexbox to learn about what the layout possibilities are. 
+> Think about which model might be appropriate to a portfolio site! Columns? Rows? Wrapping? Sizes?
+
+-
