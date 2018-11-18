@@ -1,1 +1,21 @@
+Exercise: Explore the following CSS attributes by setting them individually in the h1 rule you created above:
 
+background: orange;
+font-size: 200%;
+margin: 25%;
+padding: 20px 20px 20px 20px;
+border: 3px;
+border-radius: 10px;
+width: 50%;
+font-family: sans-serif;
+text-transform: capitalize;
+text-align: center;
+
+Exercise: Pick an attribute, read the documentation, and ask someone what it means!
+
+Exercise: Define a new class in CSS with a bunch of attributes. Create a new paragraph tag <p>, 
+and set its class attribute to the class you just created, e.g., <p class="my-fancy-class">.
+
+Research Question: What happens if you give an element more than one CSS class?
+
+Exercise: What happens when you add a transition: color 2s rule to h1 above?
