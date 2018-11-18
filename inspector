@@ -1,0 +1,19 @@
+> Exercise 1: Right-click (or control-click, or two-finger-click) on the header element you 
+> see in the output window and choose Inspect from the context menu. This will open up the 
+> Chrome Developer Tools, and you should see highlighted an <h1> element.
+
+- ok!
+
+> Research Question 1: Notice that many elements have class and id attributes. 
+> What do those mean? How many elements can have the same class attribute? The same id attribute?
+
+-
+
+> Research Question 2: is the HTML source code of the file always the same as the element tree?
+
+-
+
+> Exercise 2: Browse to your favorite web site, and inspect the visually-largest element on the page. 
+> What type of element (tag?) is it? What styling does it have? What tags are used to enclose textual content?
+
+-
