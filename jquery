@@ -1,0 +1,19 @@
+> Exercise 1: Try it! Add a single <p class="purpleable"> tag with some content. 
+> Define a CSS rule .purple { color: purple; } that makes elements with class purple be rendered with purple text. 
+> Then copy the JavaScript code above.
+
+-
+
+> Experiment 1: What happens if you use setInterval instead of setTimeout? (What do you think will happen?) 
+> What if you toggle a different class name?
+
+-
+
+> Exercise 2: Take a look through the full list of events and pick one to replace click with in the example above. 
+> Try one of the "Focus Events" or "Mouse Events" first.
+
+-
+
+> Exercise 3: Create a new HTML file with the above JavaScript code, creating the complementary HTML and CSS.
+
+-
