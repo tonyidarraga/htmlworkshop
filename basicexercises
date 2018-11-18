@@ -1,0 +1,49 @@
+> Exercise 1: Create an <h1> header tag inside the <body> section. 
+> Examine the output. Add a <small> element inside the <h1> element.
+
+<html>
+<body>
+<h1>
+<small> Hi. </small>
+</h1>
+</body>
+</html>
+
+> Exercise 2: Create an <img> tag; the <img> tag uses a src= attribute to incidte the URL (web address) 
+> of the image to be included in the page.Next, create an anchor (<a>) tag (a link!) that points to 
+> http://en.wikipedia.org/wiki/Main_Page -- the English language main page of Wikipedia.
+
+<html>
+<body>
+<h1>
+<small><a href="https://www.wikipedia.org/">Hi! This is a link to Wikipedia!</a></small>
+</h1>
+</body>
+</html>
+
+> Exercise 3: Read through the full list of HTML elements; create a <p> tag, a <ul> tag (with two or three <li> 
+> tags as children inside it), and a <span> tag. Pick three new tags from the list of all elements to create in 
+> your hello.html file. Put some of those tags inside other tags.
+
+<html>
+<body>
+<h1>
+<small>
+<a href="https://www.wikipedia.org/">Hi! This is a button To Wikipedia!</a>
+</small>
+</h1>
+<p>
+<span>
+<h2>
+<ul>
+<li> cat
+<li> dog
+<li> hamster
+<li> frog
+<li> fish
+</ul>
+</h2>
+</span>
+</p>
+</body>
+</html>
