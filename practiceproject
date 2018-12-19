@@ -1,6 +1,30 @@
 Exercises
 
-Style these comments so they look good. (What looks good is up to you!) Remember that you can move stuff around using absolute positioning and left and right declarations.
+Style these comments so they look good. (What looks good is up to you!) 
+Remember that you can move stuff around using absolute positioning and left and right declarations.
 Add a new comment to the list.
 Add an avatar image to each comment.
 Challenge: add a comment input section.
+
+<div class="comments">
+  <div class="comment">
+    <a href="https://ibb.co/RhrYFCy"><img src="https://i.ibb.co/GsYn6VT/saitama.png" alt="saitama" border="0" width="50" height="50"></a><span class="author"><font color="blue">zamfi</font></span><span class="date">11:15am, Thu, June 15, 2016</span>
+    <p>This is the lamest exercise I've ever encountered. Can't we do something cool like animations with keyframes?</p>
+  </div>
+
+  <div class="comment">
+    <a href="https://ibb.co/n32sFPS"><img src="https://i.ibb.co/N1h6MTz/jjjj.png" alt="jjjj" border="0" width="50" height="50"></a><font color="red">tidarraga</font></span><span class="date">11:35am, Thu, June 15, 2016</span>
+    <p>At least it's practical, I guess?</p>
+  </div>
+
+  <div class="comment">
+    <a href="https://ibb.co/RhrYFCy"><img src="https://i.ibb.co/GsYn6VT/saitama.png" alt="saitama" border="0" width="50" height="50"></a><span class="author"><font color="blue">zamfi</font></span><span class="date">11:36am, Thu, June 15, 2016</span>
+    <p>Psh, whatevs.</p>
+    <p>I want to learn JavaScript.</p>
+
+    <div class="comment">
+      <a href="https://ibb.co/n32sFPS"><img src="https://i.ibb.co/N1h6MTz/jjjj.png" alt="jjjj" border="0" width="50" height="50"></a><font color="red">tidarraga</font></span><span class="date">11:35am, Thu, June 15, 2016</span>
+      <p>HTML is fun, too!</p>
+    </div>
+  </div>
+</div>
