@@ -14,6 +14,12 @@ text-align: center;
 Exercise: Define a new class in CSS with a bunch of attributes. Create a new paragraph tag <p>, 
 and set its class attribute to the class you just created, e.g., <p class="my-fancy-class">.
 
+-ok!
+
 Research Question: What happens if you give an element more than one CSS class?
 
+- It allows you to be more specific on certain things in the code, i.e. the warning box example.
+
 Exercise: What happens when you add a transition: color 2s rule to h1 above?
+
+-The text box gradually changes different colors!
